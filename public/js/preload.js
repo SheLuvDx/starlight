@@ -20,7 +20,7 @@ if (!localStorage.getItem("hasVisited")) {
   localStorage.setItem("hasVisited", true);
 
   console.log(
-    "%c[ %cStarLight%c ] %cFirst Site Visit",
+    "%c[ %DW%c ] %cFirst Site Visit",
     "font-weight: bold; color: white; font-size: 20px;",
     "font-weight: bold; color: black; font-size: 20px;",
     "font-weight: normal; font-size: 20px;",
@@ -34,7 +34,7 @@ loadCSS(
   "https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css",
   function () {
     console.log(
-      "%c[ %cStarlight%c ] %cIcons loaded",
+      "%c[ %DW%c ] %cIcons loaded",
       "font-weight: bold; color: white; font-size: 20px;",
       "font-weight: bold; color: black; font-size: 20px;",
       "font-weight: normal; font-size: 20px;",
@@ -45,7 +45,7 @@ loadCSS(
 
 loadScript("/./js/themes.js", function () {
   console.log(
-    "%c[ %cStarlight%c ] %cThemes loaded",
+    "%c[ %DW%c ] %cThemes loaded",
     "font-weight: bold; color: white; font-size: 20px;",
     "font-weight: bold; color: black; font-size: 20px;",
     "font-weight: normal; font-size: 20px;",
@@ -57,7 +57,7 @@ const part = localStorage.getItem("particles");
 if (part === "true") {
   loadScript("/./js/particles.js", function () {
     console.log(
-      "%c[ %cStarlight%c ] %cParticles loaded",
+      "%c[ %DW%c ] %cParticles loaded",
       "font-weight: bold; color: white; font-size: 20px;",
       "font-weight: bold; color: black; font-size: 20px;",
       "font-weight: normal; font-size: 20px;",
