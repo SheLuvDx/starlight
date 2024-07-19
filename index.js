@@ -73,7 +73,7 @@ server.on("listening", () => {
 
   console.log(`[+] Starting 💫 DW...`);
   console.log();
-  console.log(`[+] Made by The Parcoil Network:`);
+  console.log(`[+] Made by DW:`);
   console.log();
   console.warn(`[+] `);
   console.log();
