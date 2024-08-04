@@ -1,4 +1,4 @@
-localStorage.serverurl = "https://parcoil-assets.onrender.com";
+localStorage.serverurl = "https://dwasessts.vercel.app";
 console.log(
   "%c[ %DW%c ] %cSite loaded",
   "font-weight: bold; color: white; font-size: 20px;",
