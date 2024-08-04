@@ -510,6 +510,12 @@
     "new": false
   },
   {
+    "name": "Time Shooter 2",
+    "image": "ts2.jpg",
+    "url": "timeshoot",
+    "new": false
+  },
+  {
     "name": "Drift Hunters",
     "image": "drift-hunters.png",
     "url": "drift-hunters",
