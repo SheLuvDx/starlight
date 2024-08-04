@@ -643,8 +643,8 @@
   },
   {
     "name": "Flappy Bird",
-    "image": "flappybird.jpg",
-    "url": "flappy-bird",
+    "image": "icon.png",
+    "url": "flappybird",
     "new": false
   },
   {
